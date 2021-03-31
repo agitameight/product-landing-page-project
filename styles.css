@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+}
+
+section {
+  padding: 25px 0px 25px 0px;
+}
+
+#header-img {
+    top: 0;
+    width: 150px;
+}
+
+.nav-link {
+  margin: 20px;
+  padding: 20px;
+}
+
+.flex-container > div {
+  background-color: #f1f1f1;
+  width: 200px;
+  margin: 10px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 20px;
+  border-radius: 7px;
+}
+
+header {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  left: 0;
+  background-color: white;
+  font-family: 'Exo 2', sans-serif;
+  padding: 1em;
+}
